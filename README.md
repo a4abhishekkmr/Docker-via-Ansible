@@ -16,4 +16,4 @@ If you want to accomplish the following tasks using ansible playbook, you have l
 check the document file for step by step Configuration of Docker and its services via ansible.
 
 Final output is here:-
-![](final output with target IP.png)
+![output_image](final output with target IP.png)
